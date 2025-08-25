@@ -74,9 +74,15 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 ### Whois
 
+<img width="1011" height="812" alt="image" src="https://github.com/user-attachments/assets/db5ea409-16fa-4e14-ac0c-c734a8ba5a87" />
+
 ### Finding Hosting Company :
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b0f73450-e0ee-4286-9fe6-4eab3741fdf7" />
+
 ### History of the website :
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9846723e-d404-4cc1-a67b-dd19efe029ac" />
 
 ### ping command :
 
