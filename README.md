@@ -86,20 +86,35 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### ping command :
 
-### whois :
+<img width="646" height="465" alt="image" src="https://github.com/user-attachments/assets/7e80b99a-4925-4308-9d70-219f67cf51b5" />
 
 ### netcat :
 
+<img width="632" height="317" alt="image" src="https://github.com/user-attachments/assets/7e618bd5-20f6-429c-a9ef-efccbc46cfb1" />
+
 ### nmap :
+
+<img width="540" height="231" alt="image" src="https://github.com/user-attachments/assets/97c0c87a-6fdd-4c9c-9a45-5b7b7103604a" />
 
 ### whatweb :
 
+<img width="626" height="302" alt="image" src="https://github.com/user-attachments/assets/ec754db0-6eea-4af4-a740-32bd2ae56056" />
+
 ### httprint :
+
+<img width="667" height="103" alt="image" src="https://github.com/user-attachments/assets/27eb07b6-6042-483e-b4f9-19a3ef01e662" />
 
 ### TCP traceroute :
 
+<img width="670" height="98" alt="image" src="https://github.com/user-attachments/assets/09d9f980-4594-4d3f-b2d6-394322592e43" />
+
 ### UDP traceroute :
 
+<img width="627" height="97" alt="image" src="https://github.com/user-attachments/assets/4f1261c4-d064-4f76-b944-e2db21855d1a" />
+
+### ICMP Traceroute:
+
+<img width="632" height="98" alt="image" src="https://github.com/user-attachments/assets/fe9d2a58-e1da-478d-bde8-d689eaa6a3a9" />
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
